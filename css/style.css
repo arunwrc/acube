@@ -398,4 +398,20 @@ width: 267px;
 h2{
 	margin-bottom: 0 !important;
 }
- 
+.plan-wrap article.ultimate:hover{
+ 	-webkit-box-shadow:none !important;
+ 	box-shadow:none !important;
+ 	transform: none !important;
+ }
+ .plan-wrap article.basic:hover{
+ 	-webkit-box-shadow:none !important;
+ 	box-shadow:none !important;
+ 	transform: none !important;
+ }
+.plan-wrap article.basic:hover, .plan-wrap article.starter:hover{
+	-webkit-box-shadow:none !important;
+ 	box-shadow:none !important;
+}
+.plan-wrap article{
+	background-color: transparent !important;
+}

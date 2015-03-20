@@ -54,19 +54,39 @@
 
 
     <div style="text-align: center;margin-bottom: 10px;">
-      <h3>Why Acube</h3>
-      <div class="one_half">
-      <p><span aria-hidden="true" class="icomoon-checkmark"></span> End-to-end software development</p>
-      <p><span aria-hidden="true" class="icomoon-checkmark"></span>  Customer-centric and cost-effective</p>
-      <p><span aria-hidden="true" class="icomoon-checkmark"></span>  Quality-oriented with focus on user satisfaction</p>
-      </div>
-      <div class="one_half column-last">
-      <p><span aria-hidden="true" class="icomoon-checkmark"></span>  Agile and iterative methodology</p></p>
-      <p><span aria-hidden="true" class="icomoon-checkmark"></span>  Collaborative and transparent approach</p>
-      <p><span aria-hidden="true" class="icomoon-checkmark"></span>  Long-term client relationships</p>
-      </div>
       
-      <div>.</div>
+      
+
+
+
+      <div class="plan-wrap clearfix"><h3 style="margin-top: 12px;font-weight: 400;">Why Acube</h3>
+      <article style="width:50%" class="basic">
+        
+        <ul>
+          <li><i class="icomoon-checkmark"></i>End-to-end software development</li>
+          <li><i class="icomoon-checkmark"></i>Customer-centric and cost-effective</li>
+          <li><i class="icomoon-checkmark"></i>Quality-oriented with focus on user satisfaction</li>
+        </ul>
+       
+      </article>
+
+
+      <article style="width:50%" class="ultimate">
+       
+        <ul>
+          <li><i class="icomoon-checkmark"></i>Agile and iterative methodology</li>
+          <li><i class="icomoon-checkmark"></i>Collaborative and transparent approach</li>
+          <li><i class="icomoon-checkmark"></i>Long-term client relationships</li>
+        </ul>
+       
+      </article>
+    </div>
+<hr class="vertical-space3">
+
+
+
+      
+     
 
 
     </div>
