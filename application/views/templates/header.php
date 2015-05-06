@@ -152,15 +152,15 @@
 
             <ul>
 
-               <li><a href="/#">Accounting</a></li>
+               <li><a href="/accounting">Accounting</a></li>
 
               <li><a href="/drupal">Drupal</a></li>
 
-              <li><a href="/#">Opencart</a></li>
+              <li><a href="/opencart">Opencart</a></li>
 
-              <li><a href="/#">Openerp</a></li>
+              <li><a href="/openerp">Openerp</a></li>
 
-              <li><a href="/#">Fleet Management</a></li>
+              <li><a href="/fkeetmanagment">Fleet Management</a></li>
 
             </ul>
 
